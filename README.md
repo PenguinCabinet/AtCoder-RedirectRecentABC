@@ -9,7 +9,7 @@
 </div>
 
 ## 用途
-直近のAtCoder Beginner Contestに直接アクセスしたい場合に使ってください。
+直近のAtCoder Beginner Contestに直接アクセスしたい場合にどうぞ
 
 ## 🔨 使い方
 このスクリプトを入れた状態で、    
@@ -28,7 +28,7 @@
 > このスクリプトはMIT LICENSEで提供されています。バグなどによって、何らかの不利益があった場合でも、作者は一切責任を負いません。
 
 ## ⬇️ インストール
-[greasyfork]()のページからインストールしてください。    
+[greasyfork](https://greasyfork.org/ja/scripts/508772-atcoder-redirectrecentabc)のページからインストールしてください。    
 Tampermonkeyなどのユーザースクリプト実行アドオンが別途必要です。    
 
 
