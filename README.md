@@ -21,8 +21,8 @@
 3. 1.2.両方を満たさない場合、リダイレクトしません。
 
 ### Diffオプション
-[https://atcoder.jp/contests#recent_abc-1](https://atcoder.jp/contests#recent_abc-1)のように後ろに数値を入れると、直近の番号からその数を引いたAtCoder Beginner Contestに飛びます。    
-土曜日に行ったABCを復習したい場合にどうぞ。
+[https://atcoder.jp/contests#recent_abc-1](https://atcoder.jp/contests#recent_abc-1)のように後ろに数値を入れると、直近の番号にその数を加算したAtCoder Beginner Contestに飛びます。    
+例えば-1の場合、直近のAtCoder Beginner Contestの一つ前にリダイレクトします。土曜日に行ったABCを復習したい場合にどうぞ。
 
 > [!WARNING]
 > このスクリプトはMIT LICENSEで提供されています。バグなどによって、何らかの不利益があった場合でも、作者は一切責任を負いません。
