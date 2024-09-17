@@ -9,7 +9,7 @@
 </div>
 
 ## 用途
-直近のAtCoder Beginner Contestに直接アクセスしたい場合にどうぞ
+直近のAtCoder Beginner Contestに直接アクセスしたい場合にどうぞ。
 
 ## 🔨 使い方
 このスクリプトを入れた状態で、    
@@ -17,7 +17,7 @@
 にアクセスすると、直近のAtCoder Beginner Contestにリダイレクトされます。    
 ### 直近のAtCoder Beginner Contestとは
 1. 開催中のAtCoder Beginner Contestがある場合、そこにリダイレクトします
-2. 「開催中のコンテスト」がない場合、「予定されたコンテスト」の中で、最小の番号のAtCoder Beginner Contestにリダイレクトします
+2. 開催中のAtCoder Beginner Contestがない場合、「予定されたコンテスト」の中で、最小の番号のAtCoder Beginner Contestにリダイレクトします
 3. 1.2.両方を満たさない場合、リダイレクトしません。
 
 ### Diffオプション
